@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -180,7 +180,7 @@ h1{
 ```
 
 ## OUTPUT:
-![output](https://github.com/VINUTHNA-2004/mathwebsite/blob/main/Screenshot%20(59).png?raw=true)
+![output](./web222.PNG)
 
 ## Result:
 
